@@ -23,6 +23,7 @@ Here is PyTorch implementation of CNN.
 ### 🔧 CNN完整代码实现
 
 - [🧩 数据加载与处理](/dataloader)
+  - [基础知识讲解](/notebooks/a-brief-insight-to-pytorch.ipynb)
 - [🛫 经典模型实现](/model)
   - [LeNet--首个CNN](/model/lenet.py)
   - [AlexNet--更大更深的网络](/model/alexnet.py)
