@@ -24,12 +24,12 @@ Here is PyTorch implementation of CNN.
 
 - [🧩 数据加载与处理](/dataloader)
 - [🛫 经典模型实现](/model)
-  - [LeNet--首个CNN](lenet.py)
-  - [AlexNet--更大更深的网络](alexnet.py)
-  - [VGG--块状网络结构](vgg.py)
-  - [NiN--网络中的网络](nin.py)
-  - [GoogLeNet--并行结构的网络](googlenet.py)
-  - [ResNet--残差网络结构](resnet.py)
+  - [LeNet--首个CNN](/model/lenet.py)
+  - [AlexNet--更大更深的网络](/model/alexnet.py)
+  - [VGG--块状网络结构](/model/vgg.py)
+  - [NiN--网络中的网络](/model/nin.py)
+  - [GoogLeNet--并行结构的网络](/model/googlenet.py)
+  - [ResNet--残差网络结构](/model/resnet.py)
 - [🔥 模型训练与预测](/prediction)
 
 
